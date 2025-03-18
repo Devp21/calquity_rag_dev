@@ -3,6 +3,8 @@ faiss-cpu
 langchain
 cohere
 voyageai
+llama-cpp-python
 wandb
 athina
 datasets
+python-dotenv
